@@ -73,7 +73,7 @@ Si bien esta solución tiene un nivel de dificultad básico, es importante que t
 
 ## ¿Cómo hacerlo?
 
-Esta solución tiene 3 momentos, pero no te preocupes, no estás solo/a, yo te acompañaré en este viaje. Ten en cuenta que algunos pasos pueden ser frustrantes y otros muy emocionantes, y eso está d, hace parte de cacharrear. Lo importante es seguir intentándolo.
+Esta solución tiene 3 momentos, pero no te preocupes, no estás solo/a, yo te acompañaré en este viaje. Ten en cuenta que algunos pasos pueden ser frustrantes y otros muy emocionantes, y eso está bien, hace parte de cacharrear. Lo importante es seguir intentándolo.
 
 - **Momento 1: Dibuja una lámina metálica**
     1. Prepara todos los materiales mencionados anteriormente.
@@ -120,7 +120,7 @@ Esta solución tiene 3 momentos, pero no te preocupes, no estás solo/a, yo te a
 
 ## **¿Cómo saber si esta solución funciona?**
 
-- Puedes probar esta solución revisando las barras o puntos de señal de tu celular, las cuales suelen estar ubicadas en la esquina superior izquierda o derecha de tu pantalla. Estas barras miden qué tan fuerte es la señal que estás d. En teoría, entre más barras tengas, mejor debería ser la señal que estás recibiendo.
+- Puedes probar esta solución revisando las barras o puntos de señal de tu celular, las cuales suelen estar ubicadas en la esquina superior izquierda o derecha de tu pantalla. Estas barras miden qué tan fuerte es la señal que estás recibiendo. En teoría, entre más barras tengas, mejor debería ser la señal que estás recibiendo.
 - Otra opción es que pruebes la velocidad de descarga en tu celular. Dependiendo del equipo tengas puedes descargar una aplicación para monitorear esta velocidad y ver, en diferentes condiciones, si la velocidad de descarga efectivamente está mejorando.
 - Esta solución puede lograr una mejora significativa en la recepción de señal de tu celular en una o máximo dos barras o puntos. Ten en cuenta que la señal no puede mejorar en lugares donde nunca ha habido señal.
 
