@@ -1,3 +1,5 @@
+# Este archivo es mi nueva rama.
+
 # ¿Cómo mejorar mi señal con una lata?
 
 Created: 25 de octubre de 2024 13:36
